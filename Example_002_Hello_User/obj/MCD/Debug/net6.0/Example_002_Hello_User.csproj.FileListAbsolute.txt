@@ -1,0 +1,15 @@
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\bin\MCD\Debug\net6.0\Example_002_Hello_User.exe
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\bin\MCD\Debug\net6.0\Example_002_Hello_User.deps.json
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\bin\MCD\Debug\net6.0\Example_002_Hello_User.runtimeconfig.json
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\bin\MCD\Debug\net6.0\Example_002_Hello_User.dll
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\bin\MCD\Debug\net6.0\Example_002_Hello_User.pdb
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\Example_002_Hello_User.csproj.AssemblyReference.cache
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\Example_002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\Example_002_Hello_User.AssemblyInfoInputs.cache
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\Example_002_Hello_User.AssemblyInfo.cs
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\Example_002_Hello_User.csproj.CoreCompileInputs.cache
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\Example_002_Hello_User.dll
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\refint\Example_002_Hello_User.dll
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\Example_002_Hello_User.pdb
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\Example_002_Hello_User.genruntimeconfig.cache
+C:\EducationIT\Мои програмульки\Examples\Example_002_Hello_User\obj\MCD\Debug\net6.0\ref\Example_002_Hello_User.dll
